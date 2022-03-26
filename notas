@@ -1,0 +1,30 @@
+# NOTAS
+
+Java é uma linguagem de programação orientada a objeto.
+Tudo em java é objeto
+{} -> blocos de instrução
+    ex:
+    public class nameClass {}
+Java as instruções terminam com ";"
+
+Nomes de variaveis:
+    String snakeCase;
+    Constante:
+    final CONSTANTE_NOME_VAR int; //declarar tudo maisculo
+
+Variavéis ->
+    Constantes:
+    leva-se antes da declaração a palavra reservada final.
+        ex:
+            final int x = 10
+            x = 4 //error pq x é uma constante
+    Interger:
+        (Double,float)
+        int nameVar; //somente criação
+        int nameVar = 10 //Instancia
+    String:
+        String nameVar;
+        str nameVar = 'Victor'
+    Char;//unidade de informação textual
+    ArraysList:
+        ArrayList nameVar = [1,2,3,4]
